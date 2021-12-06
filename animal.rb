@@ -9,3 +9,5 @@ class Animal
         puts "#{self.name}です。#{self.age}歳です。"
     end
 end
+
+
